@@ -1,0 +1,658 @@
+python RelevanceFeedback.py AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU b305c2cc7c4272302 0.9 "per se"
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Brian\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\Brian\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Parameters:
+Client Key:  AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU
+Engine Key:  b305c2cc7c4272302
+Query:  per se
+Precision:  0.9
+
+Iteration:  1
+Query:  per se
+
+Result  1 :
+URL:  https://www.thomaskeller.com/perseny
+Title:  Per Se | Thomas Keller Restaurant Group
+Description:  Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center.
+Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door. center.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  2 :
+URL:  https://en.wikipedia.org/wiki/Per_se
+Title:  Per se - Wikipedia
+Description:  Per se may refer to: per se, a Latin phrase meaning "by itself" or "in itself". Illegal
+per se, the legal usage in criminal and antitrust law; Negligence per se, legal ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  3 :
+URL:  https://www.merriam-webster.com/dictionary/perse
+Title:  Perse | Definition of Perse by Merriam-Webster
+Description:  We generally use per se to distinguish between something in its narrow sense
+and some larger thing that it represents. Thus, you may have no objection to ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  4 :
+URL:  https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+Title:  At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+Description:  Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new
+napkin could have been intentional. The restaurant's identity, to ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  5 :
+URL:  https://readable.com/blog/how-to-correctly-use-per-se/
+Title:  Per se meaning, how to use per se in a sentence | Readable ...
+Description:  Aug 11, 2017 ... 'Per se' is a Latin term which literally means, “by itself”, “in itself” or “of itself”. This
+means you're taking something out of its context to describe it ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  6 :
+URL:  https://en.wiktionary.org/wiki/per_se
+Title:  per se - Wiktionary
+Description:  Borrowed from Latin per sē (“by itself”), from per (“by, through”) and sē (“itself,
+himself, herself, themselves”). PronunciationEdit. (UK) IPA: /pəːˈseɪ/ ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  7 :
+URL:  https://www.instagram.com/perseny/?hl=en
+Title:  Per Se (@perseny) • Instagram photos and videos
+Description:  Per Se. Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus
+Circle & Central Park located in New York City. www.exploretock.com/perse.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  8 :
+URL:  https://www.facebook.com/perse/
+Title:  Per Se - Home - New York, New York - Menu, Prices, Restaurant ...
+Description:  Per Se, New York, NY. 56277 likes · 330 talking about this · 50035 were here.
+The official page of Thomas Keller's Per Se.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  9 :
+URL:  https://www.findlaw.com/dui/laws-resources/per-se-dui-laws.html
+Title:  Per Se DUI Laws - FindLaw
+Description:  Oct 25, 2018 ... Per se laws in DUI or DWI cases generally establish that once an individual is
+shown to have a blood-alcohol concentration (BAC) at or above ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  10 :
+URL:  https://www.thefreedictionary.com/per+se
+Title:  Per se - definition of per se by The Free Dictionary
+Description:  per se. A Latin phrase meaning by itself, used to mean intrinsically. Dictionary of
+Unfamiliar Words by Diagram Group Copyright © 2008 by Diagram ...
+Is this document relevant? (Y/N)  n
+
+
+
+Precision for iteration  1 :  0.4
+Augmenting query by:
+thomas
+restaurant
+
+
+
+
+
+Iteration:  2
+Query:  per se thomas restaurant
+
+Result  1 :
+URL:  https://www.thomaskeller.com/perseny
+Title:  Per Se | Thomas Keller Restaurant Group
+Description:  Private Dining & Events · Per Se. Per Se Front Door. center. Per Se Front Door.
+center. Per Se Front Door. center. Per Se Front Door. center. Per Se Front Door.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  2 :
+URL:  https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+Title:  Restaurant Review: At Thomas Keller's Per Se, Slips and Stumbles
+Description:  Jan 12, 2016 ... Such is Per Se's mystique that I briefly wondered if the failure to bring her a new
+napkin could have been intentional. The restaurant's identity, to ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  3 :
+URL:  https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+Title:  Today's Menus | Thomas Keller Restaurant Group
+Description:  Daily Menus Two tasting menus are offered daily: a nine-course chef's tasting
+menu, as well as a nine-course vegetable tasting menu. No single ingredient is ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  4 :
+URL:  https://www.townandcountrymag.com/leisure/arts-and-culture/a7685/thomas-keller-per-se-new-york-times-review/
+Title:  Thomas Keller Responds to New York Times Review of Per Se ...
+Description:  Sep 8, 2016 ... "It was devastating." Keller is the chef and proprietor of two of the world's most
+revered fine dining restaurants, as well as a handful of popular and ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  5 :
+URL:  https://www.thomaskeller.com/
+Title:  Thomas Keller Restaurant Group: Donate
+Description:  With the ever-evolving landscape devastating the hospitality profession, I have
+heard from many of you expressing your care and concern and asking how you ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  6 :
+URL:  https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+Title:  Per Se (restaurant) - Wikipedia
+Description:  Per Se is a New American and French restaurant located on the fourth floor of the
+Time Warner ... Thomas Keller opened Per Se in February 2004. Keller also ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  7 :
+URL:  https://ny.eater.com/2019/7/24/20706200/per-se-thomas-keller-corey-chow-nyc-restaurants
+Title:  Manhattan Restaurant Per Se from Thomas Keller May Finally Be a ...
+Description:  Jul 24, 2019 ... Is Per Se Good Again? Thomas Keller's Columbus Circle tasting menu, under
+chef Corey Chow, has far more wins than in the past. by Ryan ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  8 :
+URL:  https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se
+Title:  Per Se – New York - a MICHELIN Guide Restaurant
+Description:  An experience at Thomas Keller's Per Se is one to be savored, treasured,
+recounted and remembered. Once you've been welcomed by the charming team,
+the ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  9 :
+URL:  https://nymag.com/nymetro/food/reviews/restaurant/9333/
+Title:  Thomas Keller's Per Se - New York Magazine Restaurant Review ...
+Description:  Jun 16, 2004 ... At Per Se, Thomas Keller makes his triumphant return to New York. The
+atmosphere may be sedate, but the food is anything but.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  10 :
+URL:  https://www.linkedin.com/in/igor-milojevic-a8787b4b
+Title:  Igor Milojevic - Captain - Per Se - Thomas Keller Restaurant Group ...
+Description:  Per Se - Thomas Keller Restaurant Group. Jul 2016 - Oct 2017 1 year 4 months.
+Manhattan, NY. Working in the Kitchen as a Kitchen Server. Learning about the ...
+Is this document relevant? (Y/N)  y
+
+
+
+Precision for iteration  2 :  1.0
+
+====================
+FEEDBACK SUMMARY
+Final Query:  per se thomas restaurant
+Precision:  1.0
+Desired precision reached. Done.
+
+python RelevanceFeedback.py AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU b305c2cc7c4272302 0.9 "brin"
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Brian\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\Brian\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Parameters:
+Client Key:  AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU
+Engine Key:  b305c2cc7c4272302
+Query:  brin
+Precision:  0.9
+
+Iteration:  1
+Query:  brin
+
+Result  1 :
+URL:  https://en.wikipedia.org/wiki/Sergey_Brin
+Title:  Sergey Brin - Wikipedia
+Description:  Sergey Mikhaylovich Brin is an American computer scientist and Internet
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the
+president ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  2 :
+URL:  https://www.davidbrin.com/
+Title:  worlds of David Brin
+Description:  The official website of best-selling science fiction writer and futurist DAVID BRIN.
+Is this document relevant? (Y/N)  n
+
+
+
+Result  3 :
+URL:  https://brinandbrin.com/
+Title:  Brin & Brin LLC – Law Firm
+Description:  The litigation, transactional and compliance lawyers at Brin & Brin have proven
+success in some of the toughest Texas venues. We have represented clients in a
+ ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  4 :
+URL:  https://www.forbes.com/profile/sergey-brin/
+Title:  Sergey Brin
+Description:  Sergey Brin stepped down as president of Alphabet, parent company of Google,
+in December 2019 but remains a controller shareholder and a board member.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  5 :
+URL:  https://www.brinlevinson.com/
+Title:  Brin Levinson
+Description:  The Art of Brin Levinson.
+Is this document relevant? (Y/N)  n
+
+
+
+Result  6 :
+URL:  https://www.postgresql.org/docs/13/brin-intro.html
+Title:  Documentation: 13: 67.1. Introduction - PostgreSQL
+Description:  67.1. Introduction. 67.1.1. Index Maintenance. BRIN stands for Block Range
+Index. BRIN is designed for handling very large tables ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  7 :
+URL:  https://www.bringlass.com/
+Title:  Brin Glass: Commercial Glass Company
+Description:  Brin Glass provides commercial glass services including wholesale distribution
+and fabrication of glass and architectural aluminum products, glass service and ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  8 :
+URL:  https://www.postgresql.org/docs/9.5/brin-intro.html
+Title:  Documentation: 9.5: Introduction - PostgreSQL
+Description:  BRIN stands for Block Range Index. BRIN is designed for handling very large
+tables in which certain columns have some natural correlation with their physical
+ ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  9 :
+URL:  https://en.wiktionary.org/wiki/brin
+Title:  brin - Wiktionary
+Description:  NounEdit. brin (plural brins). One of the radiating sticks of a fan. The outermost
+are larger and longer, and are called panaches. (Can we find and add a ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  10 :
+URL:  https://www.bornandracedne.com/
+Title:  BRIN Running Series: Born & Raced In Nebraska
+Description:  The Born & Raced In Nebraska Series (BRIN) consists of Nebraska's most talked
+about 10K races each year: the Leprechaun Chase, Cornfield Cornfield, and ...
+Is this document relevant? (Y/N)  n
+
+
+
+Precision for iteration  1 :  0.2
+Augmenting query by:
+sergey
+
+
+
+
+
+Iteration:  2
+Query:  brin sergey
+
+Result  1 :
+URL:  https://en.wikipedia.org/wiki/Sergey_Brin
+Title:  Sergey Brin - Wikipedia
+Description:  Sergey Mikhaylovich Brin is an American computer scientist and Internet
+entrepreneur. Together with Larry Page, he co-founded Google. Brin was the
+president ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  2 :
+URL:  https://www.forbes.com/profile/sergey-brin/
+Title:  Sergey Brin
+Description:  Sergey Brin stepped down as president of Alphabet, parent company of Google,
+in December 2019 but remains a controller shareholder and a board member.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  3 :
+URL:  https://www.biography.com/business-figure/sergey-brin
+Title:  Sergey Brin - Education, Google & Wife - Biography
+Description:  Dec 4, 2019 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two
+becoming billionaires as Google developed into the world's ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  4 :
+URL:  https://www.britannica.com/biography/Sergey-Brin
+Title:  Sergey Brin | Biography, Google, & Facts | Britannica
+Description:  Sergey Brin, American computer scientist and entrepreneur who created, along
+with Larry Page, the online search engine Google, one of the most successful ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  5 :
+URL:  https://www.theverge.com/2019/12/4/20994361/google-alphabet-larry-page-sergey-brin-sundar-pichai-co-founders-ceo-timeline
+Title:  Google co-founders Larry Page and Sergey Brin: a timeline of their ...
+Description:  Dec 4, 2019 ... Larry Page and Sergey Brin founded Google in 1996 on the back of an algorithm,
+turned it into one of the most valuable companies in the world ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  6 :
+URL:  https://www.bloomberg.com/billionaires/profiles/sergey-brin/
+Title:  Bloomberg Billionaires Index - Sergey Brin
+Description:  Brin is a co-founder of Alphabet, the holding company that owns Google, the
+world's largest search-engine operator. The Mountain View, California-based ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  7 :
+URL:  https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos-2016-12
+Title:  Sergey Brin: Life of Google cofounder, former Alphabet president
+Description:  Dec 4, 2019 ... Google cofounder Sergey Brin is stepping down as Alphabet's president. Take a
+look inside his eccentric and wildly successful life. · Sergey Brin, ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  8 :
+URL:  https://www.ted.com/talks/sergey_brin_larry_page_the_genesis_of_google
+Title:  Sergey Brin + Larry Page: The genesis of Google | TED Talk
+Description:  Google co-founders Larry Page and Sergey Brin offer a peek inside the Google
+machine, sharing tidbits about international search patterns, the philanthropic ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  9 :
+URL:  http://infolab.stanford.edu/~sergey/
+Title:  Sergey Brin
+Description:  by Sergey Brin and Lawrence Page. We describe a new architecture for data
+mining (sorry not yet available online). It makes use of some of the dynamic
+itemset ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  10 :
+URL:  https://www.ted.com/speakers/sergey_brin
+Title:  Sergey Brin | Speaker | TED
+Description:  In his TED talk, Sergey Brin of Google shares the idea that motivated the
+development of Google Glass: that while smartphones inherently take us away
+from ...
+Is this document relevant? (Y/N)  y
+
+
+
+Precision for iteration  2 :  1.0
+
+====================
+FEEDBACK SUMMARY
+Final Query:  brin sergey
+Precision:  1.0
+Desired precision reached. Done.
+
+python RelevanceFeedback.py AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU b305c2cc7c4272302 0.9 "cases"
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\Brian\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\Brian\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Parameters:
+Client Key:  AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU
+Engine Key:  b305c2cc7c4272302
+Query:  cases
+Precision:  0.9
+
+Iteration:  1
+Query:  cases
+
+Result  1 :
+URL:  https://www.cases.org/
+Title:  CASES: Home
+Description:  From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES
+provides community-based alternatives to jail and prison. These programs
+address ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  2 :
+URL:  https://www.worldometers.info/coronavirus/?utm_campaign=homeAdvegas1?
+Title:  Coronavirus Update (Live): 109,459,931 Cases and 2,412,925 ...
+Description:  Live statistics and coronavirus news tracking the number of confirmed cases,
+recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  3 :
+URL:  https://www.dhs.wisconsin.gov/covid-19/cases.htm
+Title:  COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+Description:  Confirmed cases by age group by date of symptom onset or diagnosis; Percent of
+confirmed or probable cases by demographics and region; Percent of cases ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  4 :
+URL:  https://www.courts.mo.gov/casenet/cases/nameSearch.do
+Title:  CaseNet
+Description:
+Is this document relevant? (Y/N)  n
+
+
+
+Result  5 :
+URL:  https://www.cdc.gov/measles/cases-outbreaks.html
+Title:  Measles Cases and Outbreaks | CDC
+Description:  From January 1 to December 31, 2019, 1,282* individual cases of measles were
+confirmed in 31 states. This is the greatest number of cases reported in the U.S. ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  6 :
+URL:  https://www.mass.gov/info-details/covid-19-response-reporting
+Title:  COVID-19 Response Reporting | Mass.gov
+Description:  Case and testing information by city/town; Contact tracing cases and outreach;
+Individuals released from isolation (recovered); Cases and deaths in Long Term
+ ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  7 :
+URL:  https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s
+Title:  Coronavirus Update: Maps And Charts For U.S. Cases And Deaths ...
+Description:  6 hours ago ... Tens of thousands of new cases are reported daily nationwide. In the graphics
+below, explore the trends in your state. View the data via a heat ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  8 :
+URL:  https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+Title:  Coronavirus COVID-19 (2019-nCoV)
+Description:  Case-Fatality Ratio (%) = Number recorded deaths / Number cases. US Testing
+Rate: = total test results per 100,000 persons. The "total test results" are equal to "
+ ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  9 :
+URL:  https://pbskids.org/oddsquad/games/cases
+Title:  Odd Squad: Cases
+Description:  Visit Your Profile. Your Avatar. logout. Sign In To PBS KIDS. Apps · Shop ·
+Parents · WPTD WPTD station logo. TV Times; Settings. PBS KIDS Settings.
+Close ...
+Is this document relevant? (Y/N)  n
+
+
+
+Result  10 :
+URL:  https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html
+Title:  Coronavirus in the U.S.: Latest Map and Case Count - The New York ...
+Description:  The State of the Virus. Update for Feb. 12. Case numbers continue to fall rapidly.
+The country has averaged around 102,000 cases a day over the last week ...
+Is this document relevant? (Y/N)  y
+
+
+
+Precision for iteration  1 :  0.6
+Augmenting query by:
+coronavirus
+covid
+
+
+
+
+
+Iteration:  2
+Query:  cases coronavirus covid
+
+Result  1 :
+URL:  https://www.worldometers.info/coronavirus/
+Title:  Coronavirus Update (Live): 109,386,228 Cases and 2,411,436 ...
+Description:  Live statistics and coronavirus news tracking the number of confirmed cases,
+recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  2 :
+URL:  https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+Title:  Coronavirus COVID-19 (2019-nCoV)
+Description:  Incidence Rate = cases per 100,000 persons. Case-Fatality Ratio (%) = Number
+recorded deaths / Number cases. US Testing Rate: = total test results per
+100,000 ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  3 :
+URL:  https://www.sccgov.org/sites/covid19/Pages/dashboard.aspx
+Title:  COVID-19 Data and Reports - Novel Coronavirus (COVID-19 ...
+Description:  5 days ago ... This data dashboard provides detailed information about cases and deaths from
+Coronavirus (COVID-19) in Santa Clara County.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  4 :
+URL:  https://www.health.state.mn.us/diseases/coronavirus/situation.html
+Title:  Situation Update for COVID-19 - Minnesota Dept. of Health
+Description:  Many data points are collected during case interviews. Data presented below is
+for all cases, regardless of interview ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  5 :
+URL:  https://www.michigan.gov/coronavirus/
+Title:  Coronavirus - Coronavirus
+Description:  Description: Coronavirus - Coronavirus. ... Download the MI COVID Alert app and
+get notifications if you may have been exposed to ... Total Confirmed Cases.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  6 :
+URL:  https://www.health.pa.gov/topics/disease/coronavirus/Pages/Coronavirus.aspx
+Title:  Coronavirus in Pennsylvania
+Description:  ... a spike in positive cases. There are 892,344 positive COVID-19 cases in
+Pennsylvania. ... About COVID. Want to know the basics about coronavirus?
+Below is ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  7 :
+URL:  https://www.vdh.virginia.gov/coronavirus/
+Title:  Virginia Department of Health - Coronavirus Disease 2019 (COVID ...
+Description:  NOW HIRING. Contact Tracers. The Virginia Department of Health is recruiting for
+1,200 contractors in these areas: COVID-19 case investigator (district).
+Is this document relevant? (Y/N)  y
+
+
+
+Result  8 :
+URL:  https://experience.arcgis.com/experience/96dd742462124fa0b38ddedb9b25e429
+Title:  Florida's COVID-19 Data and Surveillance Dashboard
+Description:  Not fully configured. Not fully configured. Not fully configured. New Cases by Day
+- Last 30 Days. JavaScript chart by amCharts 3.21.15. Resident Deaths by ...
+Is this document relevant? (Y/N)  y
+
+
+
+Result  9 :
+URL:  https://www.vdh.virginia.gov/coronavirus/covid-19-in-virginia/
+Title:  COVID-19 In Virginia – Coronavirus
+Description:  Case, hospitalization, and death data reflect Virginia residents only. Death data ...
+COVID-19 Cases & Testing Dashboards ... COVID-19 Vaccine Dashboards.
+Is this document relevant? (Y/N)  y
+
+
+
+Result  10 :
+URL:  https://www.nh.gov/covid19/
+Title:  New Hampshire 2019 Novel Coronavirus (COVID-19)
+Description:  Deaths Attributed to COVID-19, 1,133 (2%). Total Current COVID-19 Cases,
+3,365. Current Hospitalizations, 126. Total Persons Tested at Selected
+Laboratories, ...
+Is this document relevant? (Y/N)  y
+
+
+
+Precision for iteration  2 :  1.0
+
+====================
+FEEDBACK SUMMARY
+Final Query:  cases coronavirus covid
+Precision:  1.0
+Desired precision reached. Done.
+
