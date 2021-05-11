@@ -41,9 +41,6 @@ keyword is no less than 0.8 times the weight of the first highest weighted keywo
 d. calculate P@K. If above threshold or 0, stop. Else, repeat the main loop.
 '''
 
-# search_engine_id = 'b305c2cc7c4272302'
-# search_api_key = 'AIzaSyAgJ1HuBv8EeTQ6jRvZVryrwwGFYXKbFfE'
-
 
 class RelevanceFeedback:
 
@@ -429,10 +426,6 @@ def main():
         print('Invalid number of input arguments.\nFormat: RelevanceFeedback.py '
               '<google api key> <google engine id> <precision> <query>')
 
-    # API Key: AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU
-    # Search engine ID: b305c2cc7c4272302
-    # python RelevanceFeedback.py AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU b305c2cc7c4272302 0.9 "cases"
-    # /home/giannis/run AIzaSyAbUyFNJp6VrdunILLcN-OecO0K7_ZH1OU b305c2cc7c4272302 0.9 "cases"
     google_api_key = sys.argv[1]
     search_engine_id = sys.argv[2]
     precision = sys.argv[3]
